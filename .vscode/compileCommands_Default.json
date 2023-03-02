@@ -1,0 +1,57 @@
+[
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscape.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscape.cpp",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscape.h",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscapeGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscapeGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\Grabber.cpp",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\Grabber.h",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\OpenDoor.cpp",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\OpenDoor.h",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\WorldPosition.cpp",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\mrsea\\\\Desktop\\\\C++\\\\UnrealEngineGames\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\WorldPosition.h",
+		"command": "cl.exe @\"C:\\Users\\mrsea\\Desktop\\C++\\UnrealEngineGames\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
